@@ -9,7 +9,7 @@ A GPU accelerated version is available for those with CUDA libraries and CUDA-ca
 
 ## The Team
 
-The project is developed by ComScope (https://www.bnl.gov/comscope/) with support from the DOE office of Basic Sciences. The main developers are Drs. Corey Melnick (cmelnick@bnl.gov) and Patrick S\{e}mon.
+The project is developed by ComScope (https://www.bnl.gov/comscope/) with support from the DOE office of Basic Sciences. The main developers are Drs. Corey Melnick (cmelnick@bnl.gov) and Patrick Semon.
 
 ## Citing ComCTQMC
 
